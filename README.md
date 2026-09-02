@@ -11,7 +11,6 @@ Developed as part of the CS 464: Human-Computer Interaction (HCI) course at the 
 - Medication Scheduling: Track daily doses (After Breakfast, Lunch, Dinner) with status toggles (Pending / Taken).
 - Pill Verification: Built-in safety check to ensure correct medication intake.
 - Caregiver Dashboard: Real-time monitoring and progress tracking for caregivers.
-- Multi-language Support: Full localization for English, Spanish, and Arabic.
 - System Alerts: Missed dose tracking and notification management.
 
 ---

@@ -37,6 +37,7 @@ As part of our continuous development roadmap, we are working on:
 - Complete Google OAuth integration (Continue with Google).
 - Database refinement for automatic role-based user mapping (Patient vs. Caregiver).
 - In-app messaging system between patients and caregivers.
+- AI-powered Prescription Verification (Pill Verification via OCR): Scan medical prescriptions to automatically extract, structure, and set medication name, dosages, scheduling times, and smart notifications.
 - Voice reminders and enhanced high-contrast accessibility options for elderly users.
 
 ---
